@@ -1,0 +1,28 @@
+body{
+ background-image: url("age.jpg");
+	
+}
+
+.button{
+	
+	margin-left:45%;
+	
+}
+
+.container{
+	
+	padding:5%;
+}
+
+.input{
+	
+	 margin-left:38%;
+	
+	padding:3%;
+	
+}
+
+p{
+	  font-weight: bold;
+
+}
